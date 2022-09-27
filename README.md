@@ -19,6 +19,11 @@ In many natural language problems, BERT outperforms the state-of-the-art by assi
 ## 🔖 Introduction to Bert :
 	
 As opposed to directional models, which read the text input sequentially (left-to-right or right-to-left), the Transformer encoder reads the entire sequence of words at once. Therefore it is considered bidirectional, though it would be more accurate to say that it’s non-directional. This characteristic allows the model to learn the context of a word based on all of its surroundings (left and right of the word).
+<br>
+<br>
+The BERT architecture builds on top of Transformer. We currently have two variants available:
+
+BERT Base: 12 layers (transformer blocks), 12 attention heads, and 110 million parameters BERT Large: 24 layers (transformer blocks), 16 attention heads and, 340 million parameters.
 
 <p align="left">
    <a href="#">
@@ -27,6 +32,13 @@ As opposed to directional models, which read the text input sequentially (left-t
 	
 </a>
 </p>
+<br>
+<br>
+To help the model distinguish between the two sentences in training, the input is processed in the following way before entering the model:
+
+A [CLS] token is inserted at the beginning of the first sentence and a [SEP] token is inserted at the end of each sentence.
+A sentence embedding indicating Sentence A or Sentence B is added to each token. Sentence embeddings are similar in concept to token embeddings with a vocabulary of 2.
+A positional embedding is added to each token to indicate its position in the sequence. 
 
 
 <p align="left">
