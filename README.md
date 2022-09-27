@@ -20,11 +20,15 @@ In many natural language problems, BERT outperforms the state-of-the-art by assi
 	
 As opposed to directional models, which read the text input sequentially (left-to-right or right-to-left), the Transformer encoder reads the entire sequence of words at once. Therefore it is considered bidirectional, though it would be more accurate to say that it’s non-directional. This characteristic allows the model to learn the context of a word based on all of its surroundings (left and right of the word).
 
-<p align="center">
-
-	<img src="https://github.com/PriyankaKumari-2002/TMLC-Fellowship-Task-/blob/main/bert_encoder.png?raw=true width="450", height="130" alt="TLMC Fellowship 22"/>
-
+<p align="left">
+   <a href="#">
+	<img src="https://github.com/PriyankaKumari-2002/TMLC-Fellowship-Task-/blob/main/bert_encoder.png?raw=true width="600", height="300" alt="TLMC Fellowship 22"/>
+	
+	
+</a>
 </p>
+
+
 <p align="left">
    <a href="#">
 	<img src="https://github.com/PriyankaKumari-2002/TMLC-Fellowship-Task-/blob/main/bert_emnedding.png?raw=true width="600", height="300" alt="TLMC Fellowship 22"/>
