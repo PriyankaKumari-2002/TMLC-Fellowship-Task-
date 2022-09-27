@@ -25,6 +25,13 @@ As opposed to directional models, which read the text input sequentially (left-t
 	<img src="https://github.com/PriyankaKumari-2002/TMLC-Fellowship-Task-/blob/main/bert_encoder.png?raw=true width="450", height="130" alt="TLMC Fellowship 22"/>
 
 </p>
+<p align="left">
+   <a href="#">
+	<img src="https://github.com/PriyankaKumari-2002/TMLC-Fellowship-Task-/blob/main/bert_emnedding.png?raw=true width="600", height="300" alt="TLMC Fellowship 22"/>
+	
+	
+</a>
+</p>
 												    
 
 ## 💡Note: In practice, the BERT implementation is slightly more elaborate and doesn’t replace all of the 15% masked words.
