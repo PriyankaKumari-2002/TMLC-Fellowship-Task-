@@ -1,6 +1,9 @@
 # TMLC-Fellowship-Task-
 This is my TMLC Fellowship task 
-<img src="https://github.com/PriyankaKumari-2002/TMLC-Fellowship-Task-/blob/main/bert_encoder.png width="450", height="130" alt="Microsoft Engage 22"/>
+<a href="https://acehacker.com/microsoft/engage2022/">
+	<img src="https://github.com/PriyankaKumari-2002/TMLC-Fellowship-Task-/blob/main/bert_encoder.png?raw=true width="450", height="130" alt="TLMC Fellowship 22"/>
+</a>
+
 ## 📋 Project Overview
 This is my TLMC Fellowship Task for Ecommerce Text Classification to recognize whether the given description is related to Electronics (0), Households (1), Books (2), or Clothing & Accessories (3) products.
 <br>
