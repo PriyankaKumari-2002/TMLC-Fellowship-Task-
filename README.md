@@ -1,4 +1,8 @@
 # TMLC-Fellowship-Task-
+# Name: Priyanka Kumari
+
+# About me in one line: Always trying to create impact using technology
+
 This is my TMLC Fellowship task 
 
 
@@ -7,7 +11,7 @@ This is my TLMC Fellowship Task for Ecommerce Text Classification to recognize w
 <br>
 <br>
 
-👩‍##💻Algorithm Used: BERT (Bidirectional Encoder Representations from Transformers)
+## 👩💻 Algorithm Used: BERT (Bidirectional Encoder Representations from Transformers)
 
 ## BERT is based on the Transformer architecture
 
